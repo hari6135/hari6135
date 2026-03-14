@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋 I'm Hariharan</h1>
+<h1 align="center">Hey 👋 I'm Hari</h1>
 
 ###
 
@@ -19,13 +19,8 @@
 <img align="right" height="175" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
-<p align="left">
-✨ Electronics and Communication Engineering Graduate <br>
-💻 Interested in Software Development & Web Technologies <br>
-📚 Currently learning Full Stack Development and Python <br>
-🛠️ Skilled in Java, SQL, HTML, CSS, JavaScript <br>
-📫 Reach me at: <a href="mailto:hariabi6135@gmail.com">hariabi6135@gmail.com</a>
-</p>
+
+<p align="left">✨ Electronics and Communication Engineering graduate<br>💻 Interested in Software Development and Web Technologies<br>📚 Currently exploring Full Stack Development and Python<br>🛠️ Experience with Java, SQL, and Web Development<br>🚀 Interested in building real-world projects and improve my coding skills</p>
 
 ###
 
