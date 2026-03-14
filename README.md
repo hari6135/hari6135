@@ -1,19 +1,24 @@
-<img align="right" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<br clear="both">
+
+<h1 align="center">Hey 👋 I'm Hariharan</h1>
 
 ###
 
-<h1 align="left">Hey 👋 I'm Hari</h1>
+<br clear="both">
+
+<p align="center">Software Developer | Java | React | Web Development</p>
 
 ###
 
-<p align="left">Software Developer | Java | React | Web Development</p>
-
-###
+<br clear="both">
 
 <h2 align="left">About me</h2>
 
 ###
 
+<img align="right" height="175" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+
+###
 <p align="left">
 ✨ Electronics and Communication Engineering Graduate <br>
 💻 Interested in Software Development & Web Technologies <br>
@@ -21,6 +26,8 @@
 🛠️ Skilled in Java, SQL, HTML, CSS, JavaScript <br>
 📫 Reach me at: <a href="mailto:hariabi6135@gmail.com">hariabi6135@gmail.com</a>
 </p>
+
+###
 
 <h2 align="left">I code with</h2>
 
@@ -55,14 +62,14 @@
 ###
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 
 <div align="center">
-  <img src="https://github-readme-stats-tawny-six-96.vercel.app/api?username=hari6135&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-tawny-six-96.vercel.app/api/top-langs?username=hari6135&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hari6135&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari6135&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ###
 
