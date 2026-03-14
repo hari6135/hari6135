@@ -1,28 +1,24 @@
-<br clear="both">
-
 <h1 align="center">Hey 👋 I'm Hari</h1>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Software Developer | Java | React | Web Development</h3>
+<h3 align="left">Software Developer | Java | React | Web Development</h3>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">About me</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<img align="right" height="175" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
 
-<p align="left">✨ Electronics and Communication Engineering graduate<br>💻 Interested in Software Development and Web Technologies<br>📚 Currently exploring Full Stack Development and Python<br>🛠️ Experience with Java, SQL, and Web Development<br>🚀 Interested in building real-world projects and improve my coding skills</p>
+<p align="left">✨ Electronics and Communication Engineering graduate<br>💻 Interested in Software Development and Web Technologies<br>📚 Currently exploring Full Stack Development and Python<br>🛠️ Experience with Java, SQL, and Web Development<br>📫 Reach me at: hariabi6135@gmail.com</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
@@ -55,9 +51,7 @@
 </div>
 
 ###
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
