@@ -14,7 +14,13 @@
 
 ###
 
-<p align="left">✨ Electronics and Communication Engineering graduate<br>💻 Interested in Software Development and Web Technologies<br>📚 Currently exploring Full Stack Development and Python<br>🛠️ Experience with Java, SQL, and Web Development<br>📫 Reach me at: hariabi6135@gmail.com</p>
+<p align="left">
+✨ Electronics and Communication Engineering Graduate <br>
+💻 Interested in Software Development & Web Technologies <br>
+📚 Currently learning Full Stack Development and Python <br>
+🛠️ Skilled in Java, SQL, HTML, CSS, JavaScript <br>
+📫 Reach me at: <a href="mailto:hariabi6135@gmail.com">hariabi6135@gmail.com</a>
+</p>
 
 ###
 
