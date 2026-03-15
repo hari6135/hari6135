@@ -59,6 +59,15 @@
 ###
 <!--START_SECTION:waka-->
 
+```txt
+From: 07 March 2026 - To: 14 March 2026
+
+Markdown   33 mins               ███████████████▓░░░░░░░░░   62.01 %
+Python     7 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+YAML       6 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+Java       6 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+```
+
 <!--END_SECTION:waka-->
 
 
