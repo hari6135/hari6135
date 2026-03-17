@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Software Developer | Java | React | Web Development</h3>
+<h3 align="left">Software Developer | Java | React | Web Development </h3>
 
 ###
 
@@ -17,7 +17,7 @@
 <p align="left">
 ✨ Electronics and Communication Engineering Graduate <br>
 💻 Interested in Software Development & Web Technologies <br>
-📚 Currently learning Full Stack Development and Python <br>
+📚 Currently learning Full Stack Development & Python <br>
 🛠️ Skilled in Java, SQL, HTML, CSS, JavaScript <br>
 📫 Reach me at: <a href="mailto:hariabi6135@gmail.com">hariabi6135@gmail.com</a>
 </p>
