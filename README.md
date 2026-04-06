@@ -60,11 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 04 April 2026
+From: 29 March 2026 - To: 05 April 2026
 
-YAML   45 mins               ██████████░░░░░░░░░░░░░░░   40.21 %
-Java   43 mins               █████████▓░░░░░░░░░░░░░░░   38.34 %
-XML    24 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
