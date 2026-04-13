@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Hariharan</h1>
+<h1 align="left">Hey 👋 I'm Hariharan</h1>
 
 ###
 
@@ -60,13 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2026 - To: 16 March 2026
+From: 05 April 2026 - To: 12 April 2026
 
-HTML         1 hr 3 mins           ████████▒░░░░░░░░░░░░░░░░   33.34 %
-Markdown     34 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Python       33 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-JSON         31 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-CSS          13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+CSS          5 mins                ██████████████░░░░░░░░░░░   56.63 %
+Other        2 mins                ████████▒░░░░░░░░░░░░░░░░   33.67 %
 ```
 
 <!--END_SECTION:waka-->
