@@ -60,11 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Python     24 mins               ██████████████████░░░░░░░   72.08 %
-CSS        5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-Other      3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Python     24 mins               ███████████████████████▓░   95.22 %
+Markdown   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
