@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2026 - To: 28 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-Python             2 hrs 24 mins         ██████████▓░░░░░░░░░░░░░░   43.15 %
-Gherkin            1 hr 27 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-Markdown           39 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Batchfile          34 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-textmate           13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Markdown           39 mins               ███████████████████████▓░   94.32 %
+GitIgnore file     1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Python             0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+textmate           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Gherkin            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
